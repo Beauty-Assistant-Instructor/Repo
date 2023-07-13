@@ -1,0 +1,28 @@
+
+.nav-item {
+    display: inline-block;
+    padding: 10px;
+    background-color: grey;
+   
+
+}
+
+
+.left {
+    width: 29%;
+    height: 500px;
+    background-color: blue;
+   float: left;
+}
+
+.right {
+    width: 70%;
+    height: 500px;
+    background-color: teal;
+    float: right;
+}
+
+.box {
+    display: block;
+    background-color: orange;
+}
